@@ -2,3 +2,11 @@
     height: 50px;
     width: auto;
 }
+
+ul {
+    list-style: none;
+}
+
+a:link {
+  text-decoration: none;  
+}
