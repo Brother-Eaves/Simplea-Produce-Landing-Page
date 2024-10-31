@@ -1,3 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family:  Roboto;
+}
+
+.header {
+  background-color: #1F2937;
+  color: white;
+}
+
 .logo {
     height: 50px;
     width: auto;
@@ -8,5 +22,27 @@ ul {
 }
 
 a:link {
-  text-decoration: none;  
+  text-decoration: none;
+}
+
+a {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.sub-title {
+  font-size: 48px;
+  font-weight: 900;
+  color: #f9faf8;
+}
+
+.sub-article {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.quote {
+  background-color: #3882f6;
+  color: #e5e7eb;
+  font-size: 48px;
 }
